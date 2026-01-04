@@ -11,6 +11,7 @@ Date: January 02, 2026
 Machine: Kioptrix Level 2 (VulnHub)
 Difficulty: Beginner 
 Goal: Root flag
+
 LInk**: [Download Here](httpsimages//download.vulnhub.com/kioptrix/Kioptrix_Level_2-update.rar)
 
 ![77ad12266ef29cf29ebd5d4b65a94dca.png](images/77ad12266ef29cf29ebd5d4b65a94dca.png)
@@ -242,7 +243,7 @@ Kioptrix Level 2 demonstrates the dangers of unpatched systems and poor input va
 - Use least-privilege principles (e.g., web servers shouldn't allow easy escalation).
 - Practice in labs to build skills safely.
 
-For questions or feedback, reach me on [GitHub/Medium]. Happy hacking! 🚀
+For questions or feedback, reach me on [GitHub/Medium]. Happy hacking! 
 
 Happy hacking, stay ethical, and keep learning! 
 — **Faceless Hunter**
